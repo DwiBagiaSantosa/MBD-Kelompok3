@@ -2,5 +2,5 @@
 
 ## Anggota kelompok
 ###### - Dian Hasna
-###### - Dwi Bagia Santosa
-###### - Haikal Azhar
+       - Dwi Bagia Santosa
+       - Haikal Azhar
