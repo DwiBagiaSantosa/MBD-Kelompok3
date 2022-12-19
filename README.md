@@ -14,5 +14,10 @@
 ###### 4. kemudian buka IDE eclipse yang sudah diinstall dan import file project yang sudah di extract 
 ###### ![gambar2](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/eclipse.png)
 ###### 5. kemudian pada src/main/java buat package baru bernama controller, exception, model dan repository
-###### ![gambar3](
-
+###### ![gambar3](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/buatpackage.png)
+###### 6. pada package controller buat java class untuk membuat endpoint seperti gambar di bawah
+###### ![gambar4](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/package%20controller.png)
+###### 7. kemudian pada package exception buat java class untuk meng handle error seperti gambar dibawah
+###### ![gambar5](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/package%20exception.png)
+###### 8. kemudian pada package model buat java class untuk membuat table ke database
+###### ![gambar6](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/package%20model.png)
