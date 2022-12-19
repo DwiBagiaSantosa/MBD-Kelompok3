@@ -13,3 +13,6 @@
 ###### ![gambar1](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/WhatsApp%20Image%202022-12-16%20at%205.17.58%20PM.jpeg)
 ###### 4. kemudian buka IDE eclipse yang sudah diinstall dan import file project yang sudah di extract 
 ###### ![gambar2](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/eclipse.png)
+###### 5. kemudian pada src/main/java buat package baru bernama controller, exception, model dan repository
+###### ![gambar3](
+
