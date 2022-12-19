@@ -23,3 +23,9 @@
 ###### ![gambar6](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/package%20model.png)
 ###### 9. kemudian pada package repository buat java interface yang berisi seperti gambar di bawah
 ###### ![gambar9](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/gambar9.png)
+###### 10. kemudian buka net.kelompok3.springboot.crudrestfulwebservice, lalu klik kanan kemudian run as java application
+###### ![gambar10](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/gambar10.png)
+###### 11. setelah di run akan muncul console seperti gambar di bawah
+###### ![gambar11](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/gambar11.png)
+###### 12. jika sudah jalan, selanjutnya kita buka postman yang sudah diinstall, lalu buat http request baru
+###### ![gambar12](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/gambar12.png)
