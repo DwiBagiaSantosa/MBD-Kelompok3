@@ -21,3 +21,5 @@
 ###### ![gambar5](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/package%20exception.png)
 ###### 8. kemudian pada package model buat java class untuk membuat table ke database
 ###### ![gambar6](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/package%20model.png)
+###### 9. kemudian pada package repository buat java interface yang berisi seperti gambar di bawah
+###### ![gambar9](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/gambar9.png)
