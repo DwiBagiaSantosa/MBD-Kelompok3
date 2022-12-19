@@ -29,3 +29,8 @@
 ###### ![gambar11](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/gambar11.png)
 ###### 12. jika sudah jalan, selanjutnya kita buka postman yang sudah diinstall, lalu buat http request baru
 ###### ![gambar12](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/gambar12.png)
+###### 13. selanjutnya masukan endpoint yang sudah dibuat ke dalam postman
+- endpoint untuk mengambil data di database
+###### ![gambar](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/endpoin%20get%20tabel.png)
+- endpoint untuk mengirim data ke database
+###### ![gambar13](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/endpoin%20get%20tabel.png)
