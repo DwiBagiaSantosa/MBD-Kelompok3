@@ -33,4 +33,8 @@
 - endpoint untuk mengambil data di database
 ###### ![gambar](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/endpoin%20get%20tabel.png)
 - endpoint untuk mengirim data ke database
-###### ![gambar13](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/endpoin%20get%20tabel.png)
+###### ![gambar13](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/endpoin%20post%20ke%20tabel.png)
+- endpoint untuk menghapus data di database
+###### ![gambar14](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/endpoin%20del%20data%20tabel.png)
+- endpoint untuk mengupdate data di database
+###### ![gambar15](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/endpoin%20updt%20tabel.png)
