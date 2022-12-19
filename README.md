@@ -9,4 +9,4 @@
 
 ###### 1. Download eclipse IDE di [Sini](https://www.postman.com/downloads/)
 ###### 2. test gambar
-###### ![test](https://cf.shopee.co.id/file/94cb75c9041ecfff66a98c58c50da64e)
+###### ![test](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/WhatsApp%20Image%202022-12-16%20at%205.17.58%20PM.jpeg)
