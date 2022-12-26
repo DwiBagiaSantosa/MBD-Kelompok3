@@ -7,7 +7,7 @@
 
 ## Dokumentasi CRUD dengan Spring boot RESTful API HSQLDB
 
-###### 1. Download eclipse IDE di [Sini](https://www.postman.com/downloads/)
+###### 1. Download eclipse IDE di [Sini](https://www.eclipse.org/downloads/)
 ###### 2. Download postman desktop di [Sini](https://www.postman.com/downloads/) Kemudian Install
 ###### 3. Generate project dan sesuaikan dependencies nya pake website spring initializr di [Sini](https://start.spring.io/)
 ###### ![gambar1](https://github.com/DwiBagiaSantosa/MBD-Kelompok3/blob/main/Dokumentasi/WhatsApp%20Image%202022-12-16%20at%205.17.58%20PM.jpeg)
